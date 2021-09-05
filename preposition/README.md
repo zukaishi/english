@@ -1,6 +1,6 @@
 |語|状態|図|
 |---|---|---|
-|no |くっ付いている状態||
-|off|完全に離れている状態||
-|in|||
+|no |くっ付いている状態|<img width="242" alt="スクリーンショット 2021-09-06 6 38 32" src="https://user-images.githubusercontent.com/22611735/132142097-c21258bf-b64e-42df-838b-eb8867a59b27.png">|
+|off|完全に離れている状態|<img width="339" alt="スクリーンショット 2021-09-06 6 40 29" src="https://user-images.githubusercontent.com/22611735/132142120-e7a229c3-3c95-4ad7-863a-fc492b3ba9af.png">|
+|in|立体的に囲まれている状態|<img width="411" alt="スクリーンショット 2021-09-06 6 41 38" src="https://user-images.githubusercontent.com/22611735/132142145-2da10749-13c4-4260-8a0c-4b826e5572f6.png">|
 |out|||
