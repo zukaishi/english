@@ -10,6 +10,9 @@
 |until|までずっと<br>未満|<img width="347" alt="スクリーンショット 2021-09-06 15 48 47" src="https://user-images.githubusercontent.com/22611735/132172723-0ea1b359-8e58-4982-8750-da6387833f01.png">|
 |as|同じ、イコール|<img width="190" alt="スクリーンショット 2021-09-06 21 58 44" src="https://user-images.githubusercontent.com/22611735/132221209-1c372979-bb7f-48b5-b4e6-75301fe80a0c.png">|
 |with|繋がっているイメージ<br>一方通行<br>一緒にいる|<img width="261" alt="Screen Shot 2021-09-07 at 6 41 51" src="https://user-images.githubusercontent.com/22611735/132261962-2458e1d3-77d6-40d2-b7d5-dbc5cdbaf203.png">|
+|of|離れているんだけど繋がっているイメージ<br>所有・分離<br>HxHで言うと変化系のオーラ|<img width="263" alt="Screen Shot 2021-09-07 at 6 53 34" src="https://user-images.githubusercontent.com/22611735/132262381-703abb13-58a6-45f5-a8ef-e18990e8d10a.png">
+
+|
 
 
 
