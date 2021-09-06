@@ -8,6 +8,7 @@
 |to|向かって到着も含むイメージ|<img width="334" alt="スクリーンショット 2021-09-06 13 27 39" src="https://user-images.githubusercontent.com/22611735/132160670-8721461e-bf1a-4016-a07b-cebc3ac22891.png">|
 |by|近くにいるイメージ、までにここにいる|<img width="256" alt="スクリーンショット 2021-09-06 15 44 50" src="https://user-images.githubusercontent.com/22611735/132172205-13ac61d4-fb35-4342-bd34-5968ad9f3814.png">|
 |until|までずっと、未満|<img width="347" alt="スクリーンショット 2021-09-06 15 48 47" src="https://user-images.githubusercontent.com/22611735/132172723-0ea1b359-8e58-4982-8750-da6387833f01.png">|
+|as|同じ、イコール|<img width="190" alt="スクリーンショット 2021-09-06 21 58 44" src="https://user-images.githubusercontent.com/22611735/132221209-1c372979-bb7f-48b5-b4e6-75301fe80a0c.png">|
 
 
 
