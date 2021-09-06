@@ -5,7 +5,7 @@
 |in|立体的に囲まれている状態|<img width="411" alt="スクリーンショット 2021-09-06 6 41 38" src="https://user-images.githubusercontent.com/22611735/132142145-2da10749-13c4-4260-8a0c-4b826e5572f6.png">|
 |at|地図上の点、あらゆる点|<img width="221" alt="スクリーンショット 2021-09-06 6 43 09" src="https://user-images.githubusercontent.com/22611735/132142179-c6b07828-360b-403e-9518-bf79f3f5733b.png">|
 |for|向かっている状態、代わりに、交換、到達点を含まない、〜にしては|<img width="379" alt="スクリーンショット 2021-09-06 12 43 34" src="https://user-images.githubusercontent.com/22611735/132157778-66b94121-2943-4a95-a1b3-e70184dffa94.png">|
-|to|||
+|to|向かって到着も含むイメージ|<img width="334" alt="スクリーンショット 2021-09-06 13 27 39" src="https://user-images.githubusercontent.com/22611735/132160670-8721461e-bf1a-4016-a07b-cebc3ac22891.png">|
 
 
 
