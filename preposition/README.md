@@ -9,7 +9,7 @@
 |by|近くにいるイメージ、までにここにいる|<img width="256" alt="スクリーンショット 2021-09-06 15 44 50" src="https://user-images.githubusercontent.com/22611735/132172205-13ac61d4-fb35-4342-bd34-5968ad9f3814.png">|
 |until|までずっと<br>未満|<img width="347" alt="スクリーンショット 2021-09-06 15 48 47" src="https://user-images.githubusercontent.com/22611735/132172723-0ea1b359-8e58-4982-8750-da6387833f01.png">|
 |as|同じ、イコール|<img width="190" alt="スクリーンショット 2021-09-06 21 58 44" src="https://user-images.githubusercontent.com/22611735/132221209-1c372979-bb7f-48b5-b4e6-75301fe80a0c.png">|
-|with|繋がっているイメージ<br>対して<br>一緒に<br>一方通行、双方向、対立全部|<img width="261" alt="Screen Shot 2021-09-07 at 6 41 51" src="https://user-images.githubusercontent.com/22611735/132261962-2458e1d3-77d6-40d2-b7d5-dbc5cdbaf203.png">|
+|with|繋がっているイメージ<br>一方通行<br>一緒にいる|<img width="261" alt="Screen Shot 2021-09-07 at 6 41 51" src="https://user-images.githubusercontent.com/22611735/132261962-2458e1d3-77d6-40d2-b7d5-dbc5cdbaf203.png">|
 
 
 
