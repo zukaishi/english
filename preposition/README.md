@@ -6,7 +6,8 @@
 |at|地図上の点、あらゆる点|<img width="221" alt="スクリーンショット 2021-09-06 6 43 09" src="https://user-images.githubusercontent.com/22611735/132142179-c6b07828-360b-403e-9518-bf79f3f5733b.png">|
 |for|向かっている状態、代わりに、交換、到達点を含まない、〜にしては|<img width="379" alt="スクリーンショット 2021-09-06 12 43 34" src="https://user-images.githubusercontent.com/22611735/132157778-66b94121-2943-4a95-a1b3-e70184dffa94.png">|
 |to|向かって到着も含むイメージ|<img width="334" alt="スクリーンショット 2021-09-06 13 27 39" src="https://user-images.githubusercontent.com/22611735/132160670-8721461e-bf1a-4016-a07b-cebc3ac22891.png">|
-|by|近くにいるイメージ|<img width="256" alt="スクリーンショット 2021-09-06 15 44 50" src="https://user-images.githubusercontent.com/22611735/132172205-13ac61d4-fb35-4342-bd34-5968ad9f3814.png">|
+|by|近くにいるイメージ、までにここにいる|<img width="256" alt="スクリーンショット 2021-09-06 15 44 50" src="https://user-images.githubusercontent.com/22611735/132172205-13ac61d4-fb35-4342-bd34-5968ad9f3814.png">|
+|until|までずっと|<img width="347" alt="スクリーンショット 2021-09-06 15 48 47" src="https://user-images.githubusercontent.com/22611735/132172723-0ea1b359-8e58-4982-8750-da6387833f01.png">|
 
 
 
