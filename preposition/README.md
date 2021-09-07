@@ -11,7 +11,7 @@
 |as|同じ、イコール|sample|<img width="190" alt="スクリーンショット 2021-09-06 21 58 44" src="https://user-images.githubusercontent.com/22611735/132221209-1c372979-bb7f-48b5-b4e6-75301fe80a0c.png">|
 |with|繋がっているイメージ<br>一方通行<br>一緒にいる|sample|<img width="261" alt="Screen Shot 2021-09-07 at 6 41 51" src="https://user-images.githubusercontent.com/22611735/132261962-2458e1d3-77d6-40d2-b7d5-dbc5cdbaf203.png">|
 |of|離れているんだけど繋がっているイメージ<br>所有・分離<br>木→木の椅子<br>HxHで言うと変化系のオーラ|This chair is made of wood.<br>This is the last chapter of the book. |<img width="263" alt="Screen Shot 2021-09-07 at 6 53 34" src="https://user-images.githubusercontent.com/22611735/132262381-703abb13-58a6-45f5-a8ef-e18990e8d10a.png">|
-|form|起点から離れるイメージ<br>原料の時　牛乳→チーズ<br>焦点が当たっている状態|cheese is made form milk.|<img width="276" alt="Screen Shot 2021-09-07 at 9 31 05" src="https://user-images.githubusercontent.com/22611735/132267948-bfe4ab7f-7fa6-40ff-b9ad-0c0607e999c1.png">|
+|form|起点から離れるイメージ<br>原料の時　牛乳→チーズ<br>焦点が当たっている状態|cheese is made from milk.|<img width="276" alt="Screen Shot 2021-09-07 at 9 31 05" src="https://user-images.githubusercontent.com/22611735/132267948-bfe4ab7f-7fa6-40ff-b9ad-0c0607e999c1.png">|
 
 
 
