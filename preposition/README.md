@@ -16,6 +16,7 @@
 |down|下降のイメージ<br>下に向かって減る<br>完全になくなる|I've been busytaking my classes:2 down,4 to go.<br> I fell down.|<img width="303" alt="Screen Shot 2021-09-07 at 9 49 02" src="https://user-images.githubusercontent.com/22611735/132268718-b97aa878-a456-4399-9a05-a22740d014af.png">|
 |above|上の方にあるイメージ<br>抽象的に上のもの||<img width="328" alt="Screen Shot 2021-09-07 at 22 06 15" src="https://user-images.githubusercontent.com/22611735/132349773-d991f3d0-7777-4a2b-8205-e942909da866.png">|
 |blow|下の方にイメージ<br>抽象的に下のもの||<img width="372" alt="Screen Shot 2021-09-07 at 22 08 41" src="https://user-images.githubusercontent.com/22611735/132350117-ec243122-b83d-4fe6-b4be-4af46e879ae6.png">|
-|over|上から覆っているイメージ<br>何か出来事を乗り越えて|put this blanket over you.|<img width="253" alt="Screen Shot 2021-09-07 at 22 10 04" src="https://user-images.githubusercontent.com/22611735/132350339-30e74aac-ca5e-4f5e-a82b-8e838fff5921.png">|
+|over|上から覆っているイメージ<br>何か出来事を乗り越えて<br>支配している|put this blanket over you.|<img width="253" alt="Screen Shot 2021-09-07 at 22 10 04" src="https://user-images.githubusercontent.com/22611735/132350339-30e74aac-ca5e-4f5e-a82b-8e838fff5921.png">|
+|under|下の範囲に及んでいるイメージ<br>支配されている|There is tha cat under the desk.|<img width="266" alt="Screen Shot 2021-09-08 at 8 28 21" src="https://user-images.githubusercontent.com/22611735/132422899-8e7e202c-97d0-4430-9698-db7cd540021e.png">|
 
 
