@@ -13,6 +13,6 @@
 |of|離れているんだけど繋がっているイメージ<br>所有・分離<br>木→木の椅子<br>HxHで言うと変化系のオーラ|This chair is made of wood.<br>This is the last chapter of the book. |<img width="263" alt="Screen Shot 2021-09-07 at 6 53 34" src="https://user-images.githubusercontent.com/22611735/132262381-703abb13-58a6-45f5-a8ef-e18990e8d10a.png">|
 |from|起点から離れるイメージ<br>原料の時　牛乳→チーズ<br>焦点が当たっている状態|cheese is made from milk.|<img width="276" alt="Screen Shot 2021-09-07 at 9 31 05" src="https://user-images.githubusercontent.com/22611735/132267948-bfe4ab7f-7fa6-40ff-b9ad-0c0607e999c1.png">|
 |up|上昇のイメージ<br>上に上がっていく<br>埋める<br>完全に|I like hiking up mountains.<br>i'll make up for it.|<img width="169" alt="Screen Shot 2021-09-07 at 9 38 24" src="https://user-images.githubusercontent.com/22611735/132268243-a7c4d4c6-8acc-461a-987c-da8d41c83fe9.png">|
-
+|down|||<img width="303" alt="Screen Shot 2021-09-07 at 9 49 02" src="https://user-images.githubusercontent.com/22611735/132268718-b97aa878-a456-4399-9a05-a22740d014af.png">|
 
 
