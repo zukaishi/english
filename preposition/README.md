@@ -14,5 +14,8 @@
 |from|起点から離れるイメージ<br>原料の時　牛乳→チーズ<br>焦点が当たっている状態|cheese is made from milk.|<img width="276" alt="Screen Shot 2021-09-07 at 9 31 05" src="https://user-images.githubusercontent.com/22611735/132267948-bfe4ab7f-7fa6-40ff-b9ad-0c0607e999c1.png">|
 |up|上昇のイメージ<br>上に上がっていく<br>埋める<br>完全に満たされる|I like hiking up mountains.<br>i'll make up for it.|<img width="169" alt="Screen Shot 2021-09-07 at 9 38 24" src="https://user-images.githubusercontent.com/22611735/132268243-a7c4d4c6-8acc-461a-987c-da8d41c83fe9.png">|
 |down|下降のイメージ<br>下に向かって減る<br>完全になくなる|I've been busytaking my classes:2 down,4 to go.<br> I fell down.|<img width="303" alt="Screen Shot 2021-09-07 at 9 49 02" src="https://user-images.githubusercontent.com/22611735/132268718-b97aa878-a456-4399-9a05-a22740d014af.png">|
+|above|上の方にあるイメージ<br>抽象的に上のもの||<img width="328" alt="Screen Shot 2021-09-07 at 22 06 15" src="https://user-images.githubusercontent.com/22611735/132349773-d991f3d0-7777-4a2b-8205-e942909da866.png">|
+|blow|下の方にイメージ<br>抽象的に下のもの||<img width="372" alt="Screen Shot 2021-09-07 at 22 08 41" src="https://user-images.githubusercontent.com/22611735/132350117-ec243122-b83d-4fe6-b4be-4af46e879ae6.png">|
+|over|上から覆っているイメージ<br>何か出来事を乗り越えて|put this blanket over you.|<img width="253" alt="Screen Shot 2021-09-07 at 22 10 04" src="https://user-images.githubusercontent.com/22611735/132350339-30e74aac-ca5e-4f5e-a82b-8e838fff5921.png">|
 
 
