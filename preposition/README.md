@@ -21,4 +21,4 @@
 |abote|辺り一体にあるイメージ<br>周辺<br>約・およそ<br>近く付近に||<img width="403" alt="Screen Shot 2021-09-08 at 9 00 56" src="https://user-images.githubusercontent.com/22611735/132424855-6fe6b549-dbd2-4a4b-87e7-9f6d739d6e76.png">|
 |around|辺り周辺丸のイメージ<br>一日中ぶっ通し|The earth goes around the sun.<br>around the clock.<br> she was around the corner|<img width="376" alt="Screen Shot 2021-09-08 at 9 04 28" src="https://user-images.githubusercontent.com/22611735/132425080-8d5fc7d3-7841-4ef4-ac4f-de187099053d.png">|
 |into|変化して入っていくイメージ<br>のめり込む|I'm into soccer.|<img width="392" alt="Screen Shot 2021-09-09 at 6 13 58" src="https://user-images.githubusercontent.com/22611735/132586462-5e2672b8-9d50-48dd-b187-23767219e126.png">|
-|out|中から外に出てくるイメージ<br>強調||<img width="250" alt="Screen Shot 2021-09-09 at 6 17 51" src="https://user-images.githubusercontent.com/22611735/132586925-d152af1d-9b3c-455f-9585-6c4da10b0c60.png">|
+|out|中から外に出てくるイメージ<br>強調<br>すっかり・完全||<img width="250" alt="Screen Shot 2021-09-09 at 6 17 51" src="https://user-images.githubusercontent.com/22611735/132586925-d152af1d-9b3c-455f-9585-6c4da10b0c60.png">|
