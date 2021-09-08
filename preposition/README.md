@@ -18,5 +18,7 @@
 |blow|下の方にイメージ<br>抽象的に下のもの||<img width="372" alt="Screen Shot 2021-09-07 at 22 08 41" src="https://user-images.githubusercontent.com/22611735/132350117-ec243122-b83d-4fe6-b4be-4af46e879ae6.png">|
 |over|上から覆っているイメージ<br>何か出来事を乗り越えて<br>支配している|put this blanket over you.|<img width="253" alt="Screen Shot 2021-09-07 at 22 10 04" src="https://user-images.githubusercontent.com/22611735/132350339-30e74aac-ca5e-4f5e-a82b-8e838fff5921.png">|
 |under|下の範囲に及んでいるイメージ<br>支配されている|There is tha cat under the desk.|<img width="266" alt="Screen Shot 2021-09-08 at 8 28 21" src="https://user-images.githubusercontent.com/22611735/132422899-8e7e202c-97d0-4430-9698-db7cd540021e.png">|
+|abote|辺り一体にあるイメージ<br>周辺<br>約・およそ||<img width="403" alt="Screen Shot 2021-09-08 at 9 00 56" src="https://user-images.githubusercontent.com/22611735/132424855-6fe6b549-dbd2-4a4b-87e7-9f6d739d6e76.png">|
+|around||||
 
 
