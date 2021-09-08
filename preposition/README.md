@@ -22,3 +22,4 @@
 |around|辺り周辺丸のイメージ<br>一日中ぶっ通し|The earth goes around the sun.<br>around the clock.<br> she was around the corner|<img width="376" alt="Screen Shot 2021-09-08 at 9 04 28" src="https://user-images.githubusercontent.com/22611735/132425080-8d5fc7d3-7841-4ef4-ac4f-de187099053d.png">|
 |into|変化して入っていくイメージ<br>のめり込む|I'm into soccer.|<img width="392" alt="Screen Shot 2021-09-09 at 6 13 58" src="https://user-images.githubusercontent.com/22611735/132586462-5e2672b8-9d50-48dd-b187-23767219e126.png">|
 |out|中から外に出てくるイメージ<br>強調<br>すっかり・完全・中断|The cherry blossoms are out.|<img width="250" alt="Screen Shot 2021-09-09 at 6 17 51" src="https://user-images.githubusercontent.com/22611735/132586925-d152af1d-9b3c-455f-9585-6c4da10b0c60.png">|
+|through|通過、経過しているイメージ||<img width="229" alt="Screen Shot 2021-09-09 at 8 37 48" src="https://user-images.githubusercontent.com/22611735/132599287-2be9a8a3-6c23-4148-82a2-d09e07de4477.png">|
