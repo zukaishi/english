@@ -4,7 +4,7 @@
 |off|完全に離れている状態|sample|<img width="339" alt="スクリーンショット 2021-09-06 6 40 29" src="https://user-images.githubusercontent.com/22611735/132142120-e7a229c3-3c95-4ad7-863a-fc492b3ba9af.png">|
 |in|立体的に囲まれている状態|sample|<img width="411" alt="スクリーンショット 2021-09-06 6 41 38" src="https://user-images.githubusercontent.com/22611735/132142145-2da10749-13c4-4260-8a0c-4b826e5572f6.png">|
 |at|地図上の点、あらゆる点|sample|<img width="221" alt="スクリーンショット 2021-09-06 6 43 09" src="https://user-images.githubusercontent.com/22611735/132142179-c6b07828-360b-403e-9518-bf79f3f5733b.png">|
-|for|向かっている状態、代わりに、交換、到達点を含まない、〜にしては|sample<br>その期間ずっと|<img width="379" alt="スクリーンショット 2021-09-06 12 43 34" src="https://user-images.githubusercontent.com/22611735/132157778-66b94121-2943-4a95-a1b3-e70184dffa94.png">|
+|for|向かっている状態、代わりに、交換、到達点を含まない、〜にしては|sample<br>その期間ずっと<br>期間自体に焦点がある|<img width="379" alt="スクリーンショット 2021-09-06 12 43 34" src="https://user-images.githubusercontent.com/22611735/132157778-66b94121-2943-4a95-a1b3-e70184dffa94.png">|
 |to|向かって到着も含むイメージ|sample|<img width="334" alt="スクリーンショット 2021-09-06 13 27 39" src="https://user-images.githubusercontent.com/22611735/132160670-8721461e-bf1a-4016-a07b-cebc3ac22891.png">|
 |by|近くにいるイメージ、までにここにいる|sample|<img width="256" alt="スクリーンショット 2021-09-06 15 44 50" src="https://user-images.githubusercontent.com/22611735/132172205-13ac61d4-fb35-4342-bd34-5968ad9f3814.png">|
 |until|までずっと<br>未満|sample|<img width="347" alt="スクリーンショット 2021-09-06 15 48 47" src="https://user-images.githubusercontent.com/22611735/132172723-0ea1b359-8e58-4982-8750-da6387833f01.png">|
@@ -27,4 +27,4 @@
 |along|細くて長いもののイメージ<br>平行に進んでいる<br>ともに進んでいる|walk along a liver.<br> she brought children along.<br> I get along with my parrent.|<img width="436" alt="Screen Shot 2021-09-11 at 6 56 35" src="https://user-images.githubusercontent.com/22611735/132921902-1964500e-d971-4f32-878c-923e12306023.png">|
 |between|それぞれの両側が明確に意識されているものの間のイメージ|There are two dogs between the trees.<br>This is between you and me.|<img width="529" alt="Screen Shot 2021-09-12 at 7 32 05" src="https://user-images.githubusercontent.com/22611735/132963161-1eac5182-cbee-4f2a-a61e-0ff7e5581d9b.png">|
 |among|ごちゃごちゃしたものの間のイメージ|it's difficult to spot him among crown.|<img width="256" alt="Screen Shot 2021-09-12 at 7 40 47" src="https://user-images.githubusercontent.com/22611735/132963279-75b10359-6614-44c3-b2a7-bad51bade01c.png">|
-|during|途中のイメージ<br>ずっとじゃなくてどこかで何かが発生した感じ<br>一時的でも、一時的じゃなくてもOK<br>出来事が何の途中に起こったかに焦点|during　the lecture.|<img width="429" alt="Screen Shot 2021-09-14 at 9 37 36" src="https://user-images.githubusercontent.com/22611735/133174982-6bc3d133-f013-4373-ae1a-9f3547feb73b.png">|
+|during|途中のイメージ<br>ずっとじゃなくてどこかで何かが発生した感じ<br>一時的でも、一時的じゃなくてもOK<br>出来事に焦点|during　the lecture.|<img width="429" alt="Screen Shot 2021-09-14 at 9 37 36" src="https://user-images.githubusercontent.com/22611735/133174982-6bc3d133-f013-4373-ae1a-9f3547feb73b.png">|
