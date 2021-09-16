@@ -28,5 +28,11 @@
 |between|それぞれの両側が明確に意識されているものの間のイメージ|There are two dogs between the trees.<br>This is between you and me.|<img width="529" alt="Screen Shot 2021-09-12 at 7 32 05" src="https://user-images.githubusercontent.com/22611735/132963161-1eac5182-cbee-4f2a-a61e-0ff7e5581d9b.png">|
 |among|ごちゃごちゃしたものの間のイメージ|it's difficult to spot him among crown.|<img width="256" alt="Screen Shot 2021-09-12 at 7 40 47" src="https://user-images.githubusercontent.com/22611735/132963279-75b10359-6614-44c3-b2a7-bad51bade01c.png">|
 |during|途中のイメージ<br>ずっとじゃなくてどこかで何かが発生した感じ<br>一時的でも、一時的じゃなくてもOK<br>出来事に焦点|during　the lecture.|<img width="429" alt="Screen Shot 2021-09-14 at 9 37 36" src="https://user-images.githubusercontent.com/22611735/133174982-6bc3d133-f013-4373-ae1a-9f3547feb73b.png">|
-|against|向かい合う力のイメージ<br>かなり力がかかる<br>備える<br>反して|swim against the current.<br> He's leaning against the wall.|<img width="335" alt="Screen Shot 2021-09-15 at 8 43 08" src="https://user-images.githubusercontent.com/22611735/133348042-6e3f838b-2024-4551-9cb8-24f7946973d0.png">|
-|away|特定の物、人、場所から離れていくイメージ<br>消失・不在<br>小さくなる<br>蓄える|She's away from her office|<img width="350" alt="Screen Shot 2021-09-16 at 22 04 25" src="https://user-images.githubusercontent.com/22611735/133617202-d8bd865d-6f44-4738-a80b-ae6c5da3d6c1.png">|
+|against|向かい合う力のイメージ<br>かなり力がかかる<br>備える<br>反して|swim against the current.<br> He's leaning against the wall.|<img width="335" alt="Screen Shot 2021-09-15 at ![Uploading Screen Shot 2021-09-17 at 6.40.18.png…]()
+8 43 08" src="https://user-images.githubusercontent.com/22611735/133348042-6e3f838b-2024-4551-9cb8-24f7946973d0.png">|
+|away|特定の物、人、場所から離れていくイメージ<br>消失・不在<br>小さくなる<br>蓄える|She's away from her office|<img width="350" alt="Screen Shot 2021-09-16 at 22 04 25" src="h![Uploading Screen Shot 2021-09-17 at 6.40.18.png…]()
+ttps://user-images.githubusercontent.com/22611735/133617202-d8bd865d-6f44-4738-a80b-ae6c5da3d6c1.png">|
+|beyond![Uploading Screen Shot 2021-09-17 at 6.40.18.png…]()
+||
+
+|
