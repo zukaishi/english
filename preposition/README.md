@@ -32,4 +32,4 @@
 |away|特定の物、人、場所から離れていくイメージ<br>消失・不在<br>小さくなる<br>蓄える|She's away from her office|<img width="350" alt="Screen Shot 2021-09-16 at 22 04 25" src="https://user-images.githubusercontent.com/22611735/133617202-d8bd865d-6f44-4738-a80b-ae6c5da3d6c1.png">|
 |beyond|ある境界線を超えて|She lives beyond the hill.<br> It's beyond comprehension.|<img width="368" alt="Screen Shot 2021-09-17 at 6 40 18" src="https://user-images.githubusercontent.com/22611735/133689962-606a02c6-f72c-4db8-a44f-daecd4e790c6.png">|
 |after|追いかけるイメージ<br>探している、求めている|I'm after a good restaurant|<img width="275" alt="Screen Shot 2021-09-17 at 8 17 29" src="https://user-images.githubusercontent.com/22611735/133697420-2e81e100-ff90-4e31-a591-43e23b8f71bf.png">|
-|before|後に|The surname come before the first name.||
+|before|後に|The surname come before the first name.<br>I put my family before my job.||
