@@ -35,7 +35,7 @@
 |before|後に|The surname come before the first name.<br>I put my family before my job.||
 |beside|そばにいるイメージ|I parked my car beside the store.|<img width="282" alt="Screen Shot 2021-09-17 at 8 27 52" src="https://user-images.githubusercontent.com/22611735/133702369-c72c2f99-6cf9-40bd-a41f-c11f7e426b71.png">|
 |besides|足し算のイメージ<br>加えて|He likes soccer besides baseball.|<img width="141" alt="Screen Shot 2021-09-18 at 6 41 05" src="https://user-images.githubusercontent.com/22611735/133856548-8d1d6bba-4b71-465e-a81a-79339d1fd106.png">|
-|aside from||||
+|aside from|サイドに出発点から離れるイメージ||<img width="450" alt="Screen Shot 2021-09-18 at 6 45 39" src="https://user-images.githubusercontent.com/22611735/133856962-5985d092-de19-4bc9-acf5-642f5bcc1fb7.png">|
 |apart from ||||
 |without||||
 |within||||
