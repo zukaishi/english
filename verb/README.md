@@ -1,7 +1,7 @@
 |word|comment|sample|image|
 |---|---|---|---|
 |go|目的に向かって出発するイメージ<br>進行<br>通じる<br>本来あるべき場所に戻す<br>範囲はある|All my money will go soon.<br>The story went like this.<br>Where do the files go?<br>I went too far.|<img width="369" alt="Screen Shot 2021-09-20 at 21 20 41" src="https://user-images.githubusercontent.com/22611735/134001483-e63022d5-f823-4042-9df4-35131403e485.png">|
-|come|---|---|---|
+|come|ある起点から離れてきて中心の場所に到来するイメージ|---|<img width="394" alt="Screen Shot 2021-09-21 at 6 41 01" src="https://user-images.githubusercontent.com/22611735/134079674-3ca0ca9f-3372-46b9-8a2c-d525cfe72a86.png">|
 |bring|---|---|---|
 |drive|---|---|---|
 |run|---|---|---|
