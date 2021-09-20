@@ -42,5 +42,5 @@
 |toward|到着点はわからないが、その方向に向かって進むイメージ|The bird flew toward the moon.|<img width="401" alt="Screen Shot 2021-09-20 at 9 14 32" src="https://user-images.githubusercontent.com/22611735/133947593-6b260083-3cda-40b8-b7a4-5aa0a2d02cab.png">|
 |since|花火の導線に火をつけるイメージ<br>以来<br>原因|I'v been plaing soccer since 2000.|<img width="391" alt="Screen Shot 2021-09-20 at 9 18 51" src="https://user-images.githubusercontent.com/22611735/133947707-d47775ec-42d7-4e50-a5a4-fa2af025dfdc.png">|
 |according to|より強力に繋がって一致しているイメージ|According to a report.|<img width="457" alt="Screen Shot 2021-09-20 at 9 30 12" src="https://user-images.githubusercontent.com/22611735/133948029-69987d6c-17ff-4d97-9e65-007e104540bf.png">|
-|due to, owing to|人が何か重いものを持たされれているイメージ||<img width="288" alt="Screen Shot 2021-09-20 at 9 41 53" src="https://user-images.githubusercontent.com/22611735/133948359-a3d91760-5113-4d1e-a571-52b3d3917af6.png">|
+|due to, owing to|人が何か重いものを持たされれているイメージ|The event was canceled duo to snow.|<img width="288" alt="Screen Shot 2021-09-20 at 9 41 53" src="https://user-images.githubusercontent.com/22611735/133948359-a3d91760-5113-4d1e-a571-52b3d3917af6.png">|
 <img width="288" alt="Screen Shot 2021-09-20 at 9 41 53" src="https://user-images.githubusercontent.com/22611735/133948359-a3d91760-5113-4d1e-a571-52b3d3917af6.png">
