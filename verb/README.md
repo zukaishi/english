@@ -1,6 +1,6 @@
 |word|comment|sample|image|
 |---|---|---|---|
-|go|---|---|---|
+|go|---|---|<img width="437" alt="Screen Shot 2021-09-20 at 11 01 47" src="https://user-images.githubusercontent.com/22611735/133952037-86f7272c-2ae4-43a4-8d97-b818740fd297.png">|
 |come|---|---|---|
 |bring|---|---|---|
 |drive|---|---|---|
