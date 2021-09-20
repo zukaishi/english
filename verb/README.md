@@ -1,6 +1,6 @@
 |word|comment|sample|image|
 |---|---|---|---|
-|go|出発するイメージ<br>進行|All my money will go soon.<br>The story went like this.|<img width="437" alt="Screen Shot 2021-09-20 at 11 01 47" src="https://user-images.githubusercontent.com/22611735/133952037-86f7272c-2ae4-43a4-8d97-b818740fd297.png">|
+|go|出発するイメージ<br>進行|<img width="369" alt="Screen Shot 2021-09-20 at 21 20 41" src="https://user-images.githubusercontent.com/22611735/134001265-484950e4-cb69-482d-b3b3-7650a1eec8dc.png">|
 |come|---|---|---|
 |bring|---|---|---|
 |drive|---|---|---|
