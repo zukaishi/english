@@ -39,6 +39,7 @@
 |apart from |一部分が出発点から離れるイメージ|I live apart form my family.|<img width="442" alt="Screen Shot 2021-09-18 at 6 48 50" src="https://user-images.githubusercontent.com/22611735/133857208-539b0b4a-e2b9-4a45-8af0-97f42611d696.png">|
 |without|withのイメージからoutしているイメージ|He want to karaoke without me. |<img width="423" alt="Screen Shot 2021-09-19 at 9 28 09" src="https://user-images.githubusercontent.com/22611735/133911787-b0a91def-684d-49f5-a3cd-03696de825b2.png">|
 |within|||<img width="351" alt="Screen Shot 2021-09-19 at 9 31 10" src="https://user-images.githubusercontent.com/22611735/133911822-e4dab444-e7c8-4007-a8cd-9fb1f3a2fba8.png">|
+|toward|||<img width="401" alt="Screen Shot 2021-09-20 at 9 14 32" src="https://user-images.githubusercontent.com/22611735/133947593-6b260083-3cda-40b8-b7a4-5aa0a2d02cab.png">|
 |since||||
 |according to||||
 |due to, owing to||||
