@@ -11,6 +11,24 @@ the movies spoke too fast  for me to understand.
 〜するとはBはAだ<br>
 it is careless of me to the door unlocked.
 
+## Aに入る事がおおい単語
+|word|comment|
+|---|---|
+|careless|不注意|
+|clever|利口な|
+|foolish|愚か|
+|honest|正直|
+|kind|親切な|
+|nice|親切な|
+|poilte|礼儀正しい|
+|rude|失礼な|
+|sensible|分別のある|
+|silly|愚かな|
+|stupid|愚かな|
+|wise|賢明な|
+
+
+
 # adverb
 |word|comment|
 |---|---|
