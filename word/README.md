@@ -4,8 +4,12 @@
 |as such|代名詞ではそのような物（人）|<ruby> classified as such <rp>（</rp><rt> そのように分類される </rt><rp>）</rp></ruby>|
 
 # too A for B to do
-〜するにはB（人）にとってAすぎる
+〜するにはB（人）にとってAすぎる<br>
 the movies spoke too fast  for me to understand.
+
+# it is A(形容詞) of B(人) to do
+〜するとはBはAだ<br>
+it is careless of me to the door unlocked.
 
 # adverb
 |word|comment|
