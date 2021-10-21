@@ -44,3 +44,4 @@
 |according to|より強力に繋がって一致しているイメージ|According to a report.|<img width="457" alt="Screen Shot 2021-09-20 at 9 30 12" src="https://user-images.githubusercontent.com/22611735/133948029-69987d6c-17ff-4d97-9e65-007e104540bf.png">|
 |due to, owing to|人が何か重いものを持たされれているイメージ|The event was canceled duo to snow.|<img width="288" alt="Screen Shot 2021-09-20 at 9 41 53" src="https://user-images.githubusercontent.com/22611735/133948359-a3d91760-5113-4d1e-a571-52b3d3917af6.png">|
 |on behalf of A|何かを代表して代表して現れるイメージ|The foreigh minister attended the United Nations on behalf of the government.||
+|for the sake of A|何かを捨てて何かを得るイメージ|Mr. Suzuki gave up smoking for the sake of his health.||
