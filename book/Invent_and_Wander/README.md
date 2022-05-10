@@ -251,3 +251,5 @@ But eventually Amazon Prime led to the combination of a loyalty program and a co
 The greatest and most serendipitous innovation Bezos made was the creation of Amazon Web Services.
 The initial ideas--which included a software layer known as Elastic Computer Cloud and hosting operation known as Simple Storage Service--bubbled up from inside the company.
 Eventually a variety of related ideas came together in a memo that proposed the creation of a service that would "enable developers and companies to use Web Services to build sophisticated and scalable applications."
+
+Bezos seized on its potential and, sometimes with great passion erupting into bouts of fury,pushed his team to develop it faster and bigger.
