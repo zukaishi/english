@@ -2,7 +2,13 @@ I'll 〜しておくね
 I V 過去　〜した
 I'v V 過去分詞　もう〜した
 Have you V 過去分詞　もう〜した？
-I'm V ing
+I'm V ing  今〜している
+I have to 〜しなきゃ
+Could you please -? 　〜してくださいますか？
+We haven't 　私たちは、まだ〜してません
+We would like to - 私たちは〜したいです
+We tried to - 私たちは〜しようとしました。
+If S V, - もし〜なら　If we meet the criteria,-.
 
 
 forward an email メールを転送する
