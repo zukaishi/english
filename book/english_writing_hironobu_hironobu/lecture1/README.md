@@ -6,5 +6,9 @@ These days more and more Japanese people are traveling abroad.
 
 - The number of + (複数形) + is increasing
 
-The humber of cars in the town is increasing.
+The number of cars in the town is increasing.
 
+- The amount of + (不可算名詞)　+ is increasing
+
+The amount of carbon dioxide in the atmosphere is increasing year by year.
+d
