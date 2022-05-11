@@ -39,3 +39,4 @@
 ## Few + 可算名刺の複数形 + 〜
 - 昨日その会議に参加した人は少なかった
 - Few people attended the meeting yesterday.
+
