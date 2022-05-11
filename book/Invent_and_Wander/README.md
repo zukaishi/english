@@ -257,4 +257,7 @@ The result would supercharge entrepreneurship like no other platform since the i
 It would enable any kid in a dorm room or any business on any Main Street--or any big corporation,for that matter--to experiment with ideas and build new services without having to buy racks of servers and suites of software.
 Instead, they could share in a globally distributed infrastructure server farms,on-demand computing power,and applications that were more extensive than those of any company in the world.
 
-
+"we completely reinvented the way that companies buy computation,"Bezos says."Traditionally,if you were a company and needed computation,you would build a data center,and you'd fill that data center witch severs,and you'd have to upgrade the operating systems of those servers and keep everything running,and so on.
+None of that added any value to what the business was doing.It was kind of price-of-admission,
+undifferentiated heavy lifting."Bezos realized that this process was also holding back various groups of innovators within Amazon itself.
+The company's applications developers had been in a constant struggle with the hardware teams,but Bezos made them develop some standard application programming interfaces(APIs) and access to computing resources."As soon as we did that it was immediately obvious that every company in the world was going to want this,"he says.
