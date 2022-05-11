@@ -1,14 +1,16 @@
 # 〜が増えている
-- More and more + (複数形)　+ are(V)ing
-- More and more + (不可算名詞)  + is(V)ing
+## More and more + (複数形)　+ are(V)ing
+## More and more + (不可算名詞)  + is(V)ing
 
-These days more and more Japanese people are traveling abroad.
+- 最近では海外に行く日本人が増えている
+- These days more and more Japanese people are traveling abroad.
 
-- The number of + (複数形) + is increasing
+## he number of + (複数形) + is increasing
+- この町の車が増えている
+- The number of cars in the town is increasing.
 
-The number of cars in the town is increasing.
+## The amount of + (不可算名詞)　+ is increasing
 
-- The amount of + (不可算名詞)　+ is increasing
+- 大気中の二酸化炭素が年々増加している
+- The amount of carbon dioxide in the atmosphere is increasing year by year.
 
-The amount of carbon dioxide in the atmosphere is increasing year by year.
-d
