@@ -261,3 +261,8 @@ Instead, they could share in a globally distributed infrastructure server farms,
 None of that added any value to what the business was doing.It was kind of price-of-admission,
 undifferentiated heavy lifting."Bezos realized that this process was also holding back various groups of innovators within Amazon itself.
 The company's applications developers had been in a constant struggle with the hardware teams,but Bezos made them develop some standard application programming interfaces(APIs) and access to computing resources."As soon as we did that it was immediately obvious that every company in the world was going to want this,"he says.
+
+For as while a miracle happened:for a few years no other companies got into the space as competitors.
+Bezos's vision was far ahead of everyone else's."It was the greatest piece of business luck in the history of business,so far as I know,"he say.
+
+Sometimes a failure and a success go together.That is what happened with the flop of Amazon's Fire Phone and the success of the Amazon Echo, the company's smart speaker and home assistant device known as Alexa. "While the Fire Phone was a failure,we were a able to take our learnings(as well as the developers') and accelerate our efforts building Echo and Alexa,"Bezos wrote in his 2017 stockholder letter.
