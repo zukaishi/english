@@ -253,3 +253,6 @@ The initial ideas--which included a software layer known as Elastic Computer Clo
 Eventually a variety of related ideas came together in a memo that proposed the creation of a service that would "enable developers and companies to use Web Services to build sophisticated and scalable applications."
 
 Bezos seized on its potential and, sometimes with great passion erupting into bouts of fury,pushed his team to develop it faster and bigger.
+The result would supercharge entrepreneurship like no other platform since the iPhone App Store.
+It would enable any kid in a dorm room or any business on any Main Street--or any big corporation,for that matter--to experiment with ideas and build new services without having to buy racks of servers and suites of software.
+Instead, they could share in a globally distributed infrastructure server farms,on-demand computing power,and applications that were more extensive than those of any company in the world.
