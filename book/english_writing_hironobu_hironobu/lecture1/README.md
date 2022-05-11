@@ -34,3 +34,8 @@
 ## 自作文章
 - 最近では、リフレッシュするためにサウナに行く人が増えている
 - These days more and more people are going to The sauna to refresh
+
+# 〜が少ない・少しある
+## Few + 可算名刺の複数形 + 〜
+- 昨日その会議に参加した人は少なかった
+- Few people attended the meeting yesterday.
