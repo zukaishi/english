@@ -36,8 +36,32 @@
 - These days more and more people are going to The sauna to refresh
 
 # 〜が少ない・少しある
-## Few + 可算名刺の複数形 + 〜
+## 〜が少ない・ほとんどない　Few + 可算名刺の複数形 + 〜
 - 昨日その会議に参加した人は少なかった
 - Few people attended the meeting yesterday.
 
+## 〜が少しある　A few + 可算名詞の複数形
+- 昨日その会議に出席した人が少しいた
+- A few people attended the meeting yesterday
 
+## 例題2
+- 先日、琵琶湖まで車で行ってきた。多分日曜日の朝だったせいか道には車が少なかった。
+- The other day, We drove to Lake Biwa.
+- Probably because it was Sunday morning.
+- there were few cars on the road.
+
+### 先日琵琶湖まで行ってきた
+- The other day,we drove to Lake Biwa.
+- I drove to Lake Biwa the other day.
+### 多分日曜日の朝だったせいか SV
+- S V ,probably because it was Sunday morning
+- Probably because it was Sunday morning, S V.
+### 道には車は少なかった
+- there were few cars on the road.
+- there were not many cars on the road.
+- there was little traffic on the road.
+
+## 自作文章
+- 先日、サウナに行ってきた。多分平日の朝だったせいか人が少なかった
+- The other days,I gone to sauna.
+- probably, because it was weekday morning.there was few people on the it.
