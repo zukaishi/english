@@ -272,4 +272,5 @@ When playing Star Trek games with his friends as kid,Bezos liked to play the rol
 
 The genesis of Amazon Echo was in one way,like Steve Jobs's development of Apple iPod.
 It arose out of intuition rather than focus groups,and it was not in response to some obvious customer demand.
-"No customer
+"No customer was asking for Echo," Bezos says."Market research doesn't help.
+If you had gone to a customer in 2013 and said,'Would you like a black,always-on cylinder in your kitchen about the size of a Pringles can that you can talk to and ask questions,that also turns on your lights and strangely and plays music?'I guarantee you they'd have looked at you strangely and said'No, thank you '"In a sweet irony,Bezos was able to trounce Apple in creating such a home device and then make its components--voice recognition and machine learning--work better than competing devices from both Google and,later,Apple.
