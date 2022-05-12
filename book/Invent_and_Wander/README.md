@@ -269,3 +269,7 @@ Sometimes a failure and a success go together.That is what happened with the flo
 
 His enthusiasm for Echo grew out of his love of Star Trek.
 When playing Star Trek games with his friends as kid,Bezos liked to play the role of the computer on the starship Enterprise. "The vision for Echo and Alexa was inspired by the Start Trek computer,"he wrote."The idea also had origins in two other arenas where we'd been building and wandering for years:machine learning and the cloud.From Amazon's early days,machine learning was an essential part of our product recommendations,and AWS gave us front-row seat to the capabilities of the cloud. After many years of development,Echo debuted in 2014,powered by Alexa,who lives in the AWS cloud."the result was a wonderful combination of smart speakers,as Star Trek chatty home computer,and an intelligent personal assistant.
+
+The genesis of Amazon Echo was in one way,like Steve Jobs's development of Apple iPod.
+It arose out of intuition rather than focus groups,and it was not in response to some obvious customer demand.
+"No customer
