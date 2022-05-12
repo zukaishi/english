@@ -286,3 +286,7 @@ Outside Amazon,Bezos's greatest enthusiasm,one nur-rured since childhood,is spac
 In 2000 he set up a company,very secretively,near Seattle called Blue Origin,naming it after the pale blue planet where humans originated.
 He called upon one of his favorite science fiction writers,Neal Stephenson,to be an advisor.
 They kicked around wildly novel ideas,such as using a bullwhip-like device to propel objects into space.
+Eventually Bezos focused on reusable rockets.
+"How is the situation in the year 2000 different from 1960?" he asked."The engines can be somewhat better,but they're still chemical rocket engines.
+What's different is computer sensors,cameras,software.
+Being able to land vertically is the kind of problem that can be addressed by those technologies that existed in 2000 that did't exist in 1960." 
