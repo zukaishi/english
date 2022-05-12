@@ -281,3 +281,8 @@ When he meets with the founder or chief executive of a company that Amazon is th
 The missionaries love their product or their service and love their customers and are trying to build a great service.
 By the way,the great paradox here is that it's usually the missionaries who make more money.
 "Mackey struck him as missionary,and his passion infused the Whole Foods ethos."It's a missionary company,and he's missionary guy."
+
+Outside Amazon,Bezos's greatest enthusiasm,one nur-rured since childhood,is space trael.
+In 2000 he set up a company,very secretively,near Seattle called Blue Origin,naming it after the pale blue planet where humans originated.
+He called upon one of his favorite science fiction writers,Neal Stephenson,to be an advisor.
+They kicked around wildly novel ideas,such as using a bullwhip-like device to propel objects into space.
