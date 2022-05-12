@@ -274,3 +274,10 @@ The genesis of Amazon Echo was in one way,like Steve Jobs's development of Apple
 It arose out of intuition rather than focus groups,and it was not in response to some obvious customer demand.
 "No customer was asking for Echo," Bezos says."Market research doesn't help.
 If you had gone to a customer in 2013 and said,'Would you like a black,always-on cylinder in your kitchen about the size of a Pringles can that you can talk to and ask questions,that also turns on your lights and strangely and plays music?'I guarantee you they'd have looked at you strangely and said'No, thank you '"In a sweet irony,Bezos was able to trounce Apple in creating such a home device and then make its components--voice recognition and machine learning--work better than competing devices from both Google and,later,Apple.
+
+Eventually Bezos hopes to integrate the Amazon online store,Amazon Prime, Echo, and Amazon's customer data analytics with the Whole Foods Market grocery chain, which Amazon bought in 2017.
+Bezos says that his purchase of the company was partly due to his admiration fo the outlook of its founder, John Mackey.
+When he meets with the founder or chief executive of a company that Amazon is thinking of buying, Bezos tries to assess whether he or she is in it merely to make money or because of a true passion for serving customers."I'm always trying to figure out one thing first and foremost:Is that person a missionary or mercenary?"Bezos says."The mercenaries are trying to flip their stock.
+The missionaries love their product or their service and love their customers and are trying to build a great service.
+By the way,the great paradox here is that it's usually the missionaries who make more money.
+"Mackey struck him as missionary,and his passion infused the Whole Foods ethos."It's a missionary company,and he's missionary guy."
