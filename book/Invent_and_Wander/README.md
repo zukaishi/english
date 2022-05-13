@@ -290,3 +290,6 @@ Eventually Bezos focused on reusable rockets.
 "How is the situation in the year 2000 different from 1960?" he asked."The engines can be somewhat better,but they're still chemical rocket engines.
 What's different is computer sensors,cameras,software.
 Being able to land vertically is the kind of problem that can be addressed by those technologies that existed in 2000 that did't exist in 1960." 
+
+In March 2003 Bezos began putting together a huge tract of ranchland in Texas where he could build his reusable rockets in secrets.
+One of the great scenes in Christian Davenport's The Space Barons is the description of the helicopter trip Bezos took to find the land,which ended with a terrifying crash.
