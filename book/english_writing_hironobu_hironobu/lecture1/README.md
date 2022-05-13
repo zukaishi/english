@@ -65,3 +65,46 @@
 - 先日、サウナに行ってきた。多分平日の朝だったせいか人が少なかった
 - The other days,I gone to sauna.
 - probably, because it was weekday morning.there was few people on the it.
+
+# 〜な人が多い
+## 〜な人が多い A  lot of people
+- 物価が高すぎるとこぼす人が多い
+- A lot of people complain that  prices are too hight.
+
+## 〜な人がいる　Some people
+- 地球の温暖化が進んでいると言う人もいる
+- Some people say that the earth is getting warmer and warmer.
+
+## 〜な人が大半である  Most people
+- 大抵の人は幸福になる事を望んでいる
+- Most people what to be happy.
+
+## 例題3
+- 英語を話せさえすれば国際人になれると勘違いしている人がまだ大勢いるのは残念だ
+- It is a pity that many people still mistakenly believe that as long as they speak English,
+- they can be international-minded.
+
+### 〜なのは残念だ
+- It it pity that S' V.
+- It is regrettable that S' V'.
+
+### 〜と勘違いしている
+- mistakenly believe S' V'
+- have the mistaken idea that S' V'
+- believe S' V'. However, they are wrong.
+
+### 〜しさえすれば
+- as longs as, S can V
+- S have only to (V) to (V')
+
+### 国際人になれる
+- can be internationally-minded
+- can be members of the global community
+
+### 〜な人がまだ大勢いる
+ - many people still 〜
+
+## 自作文章
+- サウナに入りさえすれば、整うと考えている人が多いのは残念だ
+- It is a pity that many people still mistakenly believe that as long as they into Sauna,
+- they can be Totonou
