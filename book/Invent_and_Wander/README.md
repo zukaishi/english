@@ -293,3 +293,6 @@ Being able to land vertically is the kind of problem that can be addressed by th
 
 In March 2003 Bezos began putting together a huge tract of ranchland in Texas where he could build his reusable rockets in secrets.
 One of the great scenes in Christian Davenport's The Space Barons is the description of the helicopter trip Bezos took to find the land,which ended with a terrifying crash.
+
+When reporter and Bezos biographer Brad Stone discovered the existence of Blue Origin,he emailed Bezos,asking for comment.
+Bezos wasn't ready to talk about it,but he did go on the record to push back against Stone's notion that he had founded the company because he thought that the government-run NASA program had become too risk averse and sluggish."NASA is a national treasure,and it's total bull that anyone should be frustrated by NASA, "Bezos wrote Stone."The only reason I'm interested in space is because [NASA] inspired me when I was five years old.
