@@ -296,3 +296,6 @@ One of the great scenes in Christian Davenport's The Space Barons is the descrip
 
 When reporter and Bezos biographer Brad Stone discovered the existence of Blue Origin,he emailed Bezos,asking for comment.
 Bezos wasn't ready to talk about it,but he did go on the record to push back against Stone's notion that he had founded the company because he thought that the government-run NASA program had become too risk averse and sluggish."NASA is a national treasure,and it's total bull that anyone should be frustrated by NASA, "Bezos wrote Stone."The only reason I'm interested in space is because [NASA] inspired me when I was five years old.
+How many government agencies can you think of that inspire five-year-olds?
+The work NASA does is technically super-demanding and inherently risky,and they continue to do an outstanding job.
+The ONLY reason any of these small space companies have a chance of doing ANYTHING is because they get to stand on the shoulders of NASA's accomplishments and ingenuity."
