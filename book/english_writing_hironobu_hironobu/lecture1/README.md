@@ -108,3 +108,21 @@
 - サウナに入りさえすれば、整うと考えている人が多いのは残念だ
 - It is a pity that many people still mistakenly believe that as long as they into Sauna,
 - they can be Totonou
+
+# 〜な人/者
+## 〜な人は誰でも anyone who
+- 成功したければ健全な身体と健全な精神が必要だ
+- Anyone who wants to be successful in life needs a healthy body and a healthy mind.
+
+## 〜な人は　Those who
+- 怠け者は成功しないだろう
+- Those who are lazy will not succeed.
+
+## 〜な人は If you 〜, you ・・・
+- 成功したければ健全な身体と健全な精神が必要だ
+- If you want to be successful, you need a healthy body and a healthy mind.
+
+## 例題4
+- 知的職業に従するものは、ときに視点を変えてみることが必要です。それは将来、医者や薬剤師のような職業に従事する人も当てはまります
+- Those who have intellectual jobs sometimes need to ook at things form a different point of view.
+- This also applies to young people who are going to be doctors,engineers,or pharmacists.
