@@ -299,3 +299,14 @@ Bezos wasn't ready to talk about it,but he did go on the record to push back aga
 How many government agencies can you think of that inspire five-year-olds?
 The work NASA does is technically super-demanding and inherently risky,and they continue to do an outstanding job.
 The ONLY reason any of these small space companies have a chance of doing ANYTHING is because they get to stand on the shoulders of NASA's accomplishments and ingenuity."
+
+Bezos approaches his space endeavors as a missionary rather than a mercenary.
+"This is the most important work I' doing, and I have great conviction about that,"
+he says.Earth is finite, and energy usage has grown so much that it will soon, he thinks,strain the resources of our small planet.
+That will leave us with a choice:
+accept static growth for humanity or explore and expand to places beyond Earth.
+"I want my grandchildren's grandchildren to be using way more energy per capita than I am, "And I would like to see us not have a population cap.
+I wish there there were a trillion humans in the solar system; then there would be a thousand Einsteins and thousand Mozarts." But within a century, he fears, the Earth will not be able to sustain this growth of population and energy use."So, what will that lead to? It will lead to stasis. 
+I don't even think stasis is compatible with liberty."
+That prompted him to believe we should now begin thinking about new frontiers."We can fix that problem,"
+he says,by lowering the cost of access to space and using in-space resources.
