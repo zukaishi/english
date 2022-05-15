@@ -12,3 +12,7 @@
 ## エンジニアは、時に視点を変えてみることが重要です。これは、将来マネジャーになるエンジニアにも当てはまります。
 - Those who have engineer jobs sometimes need to Look at things form a different point of view.
 - This also applies to engineer who are going to be manager.
+
+## 現代社会の中で生活している人は常に多くのストレスにさらされているので、サウナによって緩和するのが良いでしょう。
+- In modern life, you often have a lot of stress.
+- In order to relieve it,you should try into Sauna.
