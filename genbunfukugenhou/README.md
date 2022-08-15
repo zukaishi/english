@@ -1,13 +1,17 @@
 # 15 Augsut,2022
 ## a 
 - A lot of countries celebrate harvest holidays. Harvest is when people pick the plants they grew. 
-- This is how they get their food. People are thankful for their food.
 - たくさんの国では、収穫祭休日を祝福している。収穫祭とは人が成長した苗を収穫すること
+- 
+- This is how they get their food. People are thankful for their food.
 - これは、彼らの食糧になる。人は彼らの食糧に感謝をする
+- 
 - In the United States, this holiday is called Thanksgiving. A long time ago, Native Americans helped the Pilgrims grow food. 
-- アメリカでしゃ、この収穫祭をThanksgivingを読んでいる。大昔、ネイティブアメリカンが育てた食べ物が巡礼者を助けた
+- アメリカでは、この収穫祭をThanksgivingを読んでいる。大昔、ネイティブアメリカンが育てた食べ物が巡礼者を助けた
+- 
 - Pilgrims had just come over - on a boat from far away. They felt very grateful for their food and new friends. 
-- 巡礼者
+- ちょうど巡礼者がやってきた - 遠くからボートに乗って。彼らは、彼らの食べ物と新しい友に感謝した。
+- 
 - They had a feast to celebrate. Nowadays, Americans give thanks for their food. They eat a big meal at home with family. They eat lots of turkey.
 - Canada celebrates Thanksgiving, too. It is a lot like Thanksgiving in the United States. 
 - People from Canada eat turkey, stuffing, and pumpkin pie just like in America.
@@ -18,5 +22,12 @@
 - People celebrate in church. They decorate their churches. They give thanks for their harvest. They celebrate with parades and fireworks.
 
 ## b
-- A lot of contries celebrates Harvest holiday.Hervest is people pick palants the grows.
+- たくさんの国では、収穫祭休日を祝福している。収穫祭とは人が成長した苗を収穫すること
 - This is how they are food. People is thankful they are food.
+- 
+- これは、彼らの食糧になる。人は彼らの食糧に感謝をする
+- A lot of contries celebrates Harvest holiday.Hervest is people pick palants the grows.
+- 
+- アメリカでは、この収穫祭をThanksgivingを読んでいる。大昔、ネイティブアメリカンが育てた食べ物が巡礼者を助けた
+- in the united states,this hervest holiday is Thanksgiving called. a long time ago,Native american helped pilgrims grow the plant.
+
