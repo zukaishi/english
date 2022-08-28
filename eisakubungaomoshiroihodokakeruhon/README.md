@@ -10,6 +10,9 @@
 - to learn English
 ### 最近では、頭をすっきりさせるためにサウナに出かける人が増えています。
 - Nowadays more and more people are going Sauna to relax.
+### 最近では、健康な食品とユニークアクティビティを求め、私の街に訪れるさまざま個性を持った人がますます増えています。
+- Nowadays more and more personality people are visiting my city for healthy food and unique activity.
+- 
 
 
 
