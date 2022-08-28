@@ -8,6 +8,10 @@
 - go aboard
 ### 英語を勉強するために
 - to learn English
+### 最近では、頭をすっきりさせるためにサウナに出かける人が増えています。
+- Nowadays more and more people are going Sauna to relax.
+
+
 
 ## 2.先日、琵琶湖まで車で行ってきた。たぶん日曜日の朝だったせいか道には車が少なかった
 
