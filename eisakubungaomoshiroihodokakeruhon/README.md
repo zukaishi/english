@@ -1,4 +1,13 @@
-## 1.最近は、英語を勉強するために海外にで帰る学生が増えています
+## 1.最近は、英語を勉強するために海外に出かける学生が増えています
+- There days more and more students are going aboard to learn English. 
+### 最近は
+- there days
+### vする学生が増えている
+- more and more students are (v)ing
+### 海外に出かける
+- go aboard
+### 英語を勉強するために
+- to learn English
 
 ## 2.先日、琵琶湖まで車で行ってきた。たぶん日曜日の朝だったせいか道には車が少なかった
 
