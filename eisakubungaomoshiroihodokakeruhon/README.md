@@ -1,7 +1,7 @@
 ## 1.最近は、英語を勉強するために海外に出かける学生が増えています
 - There days more and more students are going aboard to learn English. 
 ### 最近は
-- there days
+- there days : イギリス英語、nowadays : アメリカ英語
 ### vする学生が増えている
 - more and more students are (v)ing
 ### 海外に出かける
