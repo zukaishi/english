@@ -32,9 +32,7 @@
 - there were few cars on the road.
 
 ### 先日、サウナまで自転車で行ってきた。たぶん平日の朝だったせいか店内に人は少なかった。
-- The other days, I bike to a Sauna.probably because it was weekday moring.
-- There were few peoples in the store.
-- 
+- The other days, I bike to a Sauna. probably because it was a weekday morning. There were few people in the store.
 
 
 ## 3.英語を話せさえすれば国際時になれると勘違いしている人がまだ大勢いるのは残念だ
