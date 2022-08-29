@@ -12,11 +12,17 @@
 - Nowadays more and more people are going Sauna to relax.
 ### 最近では、健康な食品とユニークアクティビティを求め、私の街に訪れるさまざま個性を持った人がますます増えています。
 - Nowadays more and more personality people are visiting my city for healthy food and unique activity.
-- 
+- Nowadays more and more people with good personalities are visiting my city for healthy food and a unique activity.
 
 
 
 ## 2.先日、琵琶湖まで車で行ってきた。たぶん日曜日の朝だったせいか道には車が少なかった
+
+### 先日、琵琶湖まで車で行ってきた
+- The other days, i went to biwako lake of my car.
+- The other days I drove to Lake Biwa.
+
+### たぶん、日曜日の
 
 ## 3.英語を話せさえすれば国際時になれると勘違いしている人がまだ大勢いるのは残念だ
 
