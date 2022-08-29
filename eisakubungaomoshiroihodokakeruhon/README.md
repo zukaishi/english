@@ -17,12 +17,25 @@
 
 
 ## 2.先日、琵琶湖まで車で行ってきた。たぶん日曜日の朝だったせいか道には車が少なかった
+- The other days, I drove to Lake Biwa. probably because it was Sunday morning.
+- There were few cars  on the road.
 
 ### 先日、琵琶湖まで車で行ってきた
 - The other days, i went to biwako lake of my car.
 - The other days I drove to Lake Biwa.
 
-### たぶん、日曜日の
+### たぶん、日曜日の朝だったせいかS V
+- mabey, sunday of morning ...
+- S V, probably because it was Sunday morning.
+
+### 道には車が少なかった
+- there were few cars on the road.
+
+### 先日、サウナまで自転車で行ってきた。たぶん平日の朝だったせいか店内に人は少なかった。
+- The other days, I bike to a Sauna.probably because it was weekday moring.
+- There were few peoples in the store.
+- 
+
 
 ## 3.英語を話せさえすれば国際時になれると勘違いしている人がまだ大勢いるのは残念だ
 
