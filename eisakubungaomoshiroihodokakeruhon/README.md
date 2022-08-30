@@ -36,9 +36,36 @@
 - The other day, I biked to a Sauna. I preferred to go there on a weekday morning because there were few people.
 
 
-## 3.英語を話せさえすれば国際時になれると勘違いしている人がまだ大勢いるのは残念だ
 
-## 4.知的職業に従事するものは、時に視点を変えてみることが必要です。それは将来、医師や技師や薬剤のような職業に従事する若い人についても当てはまります。
+
+
+## 3.英語を話せさえすれば 国際時になれると 勘違いしている人がまだ大勢いるのは 残念だ
+- It is regrettable that many people still mistakenly belive that as long as they speak English, they can be internationally-minded.
+
+### 〜なのは残念だ
+- It is regrettable that S' V'.
+
+### 〜と勘違いしている
+- mistakenly believe S' V'
+
+### 〜しさえすれば、〜する限り
+- as long as 
+
+### 国際人になれる
+- can be internationally-minded
+
+### 〜な人がまだ大勢いる
+- many people still
+
+
+
+
+## 4.知的職業に従事するものは 時に視点を変えてみることが必要です。　それは将来、医師や技師や薬剤のような職業に従事する若い人についても 当てはまります。
+
+Those who have ( intellectual )job sometimes need to look at things from a diffrent point of view.
+this also applites to young people
+who are going to be docter,engineers,or pharmactists.
+
 
 ## 5.現代の生活では、だれでもストレスが溜まりやすい。適度な運動するとか、音楽を聴くとか、自然の中で過ごすなどして、ストレスを解消する方が良いでしょう。
 
