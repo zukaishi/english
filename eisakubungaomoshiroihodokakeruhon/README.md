@@ -33,6 +33,7 @@
 
 ### 先日、サウナまで自転車で行ってきた。たぶん平日の朝だったせいか店内に人は少なかった。
 - The other days, I bike to a Sauna. probably because it was a weekday morning. There were few people in the store.
+- The other day, I biked to a Sauna. I preferred to go there on a weekday morning because there were few people.
 
 
 ## 3.英語を話せさえすれば国際時になれると勘違いしている人がまだ大勢いるのは残念だ
