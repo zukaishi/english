@@ -69,6 +69,13 @@ who are going to be docter,engineers,or pharmactists.
 
 ## 5.現代の生活では、だれでもストレスが溜まりやすい。適度な運動するとか、音楽を聴くとか、自然の中で過ごすなどして、ストレスを解消する方が良いでしょう。
 
+- there days, you often feel stressed.
+- In order to relieve it, you should try to get some exercise, listen music or spend time outdoor.
+
+### 現代の生活では、誰でもストレスが溜まりやすい。サウナに入るとか、サウナに入るとか、サウナに入るなどして、ストレスを解消する方がいいでしょう。
+- There days, you often fell stressed.
+- In order to relieve it, you should try to in Sauna, in Sauna or in Sauna.
+
 ## 6.大学に入ろうとする10人のうち4人が、大学教育を受けるだけの能力があるとは限らないと言う人もいる
 
 ## 7.世界には、生きていくのに十分な食物さえ買うことができずに、上のために死ぬ人々が何百人もいます。
