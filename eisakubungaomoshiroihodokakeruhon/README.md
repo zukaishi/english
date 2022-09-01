@@ -78,6 +78,30 @@ who are going to be docter,engineers,or pharmactists.
 
 ## 6.大学に入ろうとする10人のうち4人が、大学教育を受けるだけの能力があるとは限らないと言う人もいる
 
+- Some people say 
+- that four in ten students 
+- who are going to get into college do not always have the ability to study in college.
+
+- 言う人もいる
+- some people say that
+- 10人中4人の学生が 
+- four in ten students 
+- 大学に入ろうとする
+- want to get into college
+- 〜するだけの能力があるとは限らない
+- do not have the ability to(V)
+- 大学教育を受ける
+- study at cooege
+
+### SME board を受けようとしている10人のうち3人が、SME取得するだけの能力があるとは限らないと言う
+- Some people say
+- that three in ten SME Board people
+- who are getting SME do not always have the ability.
+
+
+
+
+
 ## 7.世界には、生きていくのに十分な食物さえ買うことができずに、上のために死ぬ人々が何百人もいます。
 
 ## 8.
