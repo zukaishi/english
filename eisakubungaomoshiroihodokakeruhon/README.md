@@ -100,7 +100,7 @@ who are going to be docter,engineers,or pharmactists.
 
 
 ## 7.世界には、生きていくのに十分な食物さえ買うことができずに、上のために死ぬ人々が何百人もいます。
-- millions of people in the world who cannot buy enought food to live and die of hunger.
+- millions of people in the world who cannot buy enough food to live and die of hunger.
 - 
 
 ## 8.
